@@ -1,0 +1,9 @@
+To install it 
+Unpack all files to your ../Sublime/Packages/sublime-fix-path/ folder.
+
+All the options will show up in the drop-down menu.
+
+TODO:
+
+* add the functionality to sublime's overlay
+* add repo to packagecontrol.io 
