@@ -1,0 +1,17 @@
+[
+	{
+		"id": "to_slash",
+		"caption": "Convert to slash",
+		"command": "to_slash"
+	},
+	{
+		"id": "to_double_backslash",
+		"caption": "Convert to double backslash",
+		"command": "to_double_backslash"
+	},
+	{
+		"id": "to_single_backslash",
+		"caption": "Convert to single backslash",
+		"command": "to_single_backslash"
+	}
+]
